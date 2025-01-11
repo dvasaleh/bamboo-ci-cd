@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Hello, Bamboo!" 
+
+# Simple script to print a message
+echo "Hello, Bamboo! The build was triggered successfully."
